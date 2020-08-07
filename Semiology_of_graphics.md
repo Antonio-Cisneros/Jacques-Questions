@@ -36,7 +36,7 @@ Grey scale.
 ##### What produce a flat?
 A color variation without value variation.
 
-## The rules of the graphic system
+### The rules of the graphic system
 
 #### The basic graphic problem.
 
