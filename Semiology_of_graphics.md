@@ -1,8 +1,8 @@
 # Semiology of Graphics - Diagrams, Networks, Maps
 
-## Chapter 1
+## Part One
 
-### The Analisis of Information
+### Chapter 1. The Analisis of Information
 
 ##### What is graphic identification?
 It is the narrative content (information) for describe the scales variables.
@@ -16,7 +16,7 @@ It describes all common topological properties that a graph could has on it.
 ##### When a component is ordered?
 It is only ordered when its categories are ordered in a single and universal manner and when its categories are defined as equidistant.
 
-### The Properties of the graphic system
+### Chapter 2. The Properties of the graphic system
 
 ##### What do graphics designers are in the graphic system?
 They are the visual variables who will form the world of images.
@@ -36,9 +36,9 @@ Grey scale.
 ##### What produce a flat?
 A color variation without value variation.
 
-### The rules of the graphic system
+### Chapter 3. The rules of the graphic system
 
-#### The basic graphic problem.
+#### A. The basic graphic problem.
 
 ##### What is a retinal variable?
 They are the variation of size, value, texture, color, orientation, shape, or by a combination of several of these variables.
@@ -52,7 +52,7 @@ Since they require the use of retinal variable in order to differentiate the non
 ##### What represents the cartographic visualization?
 Acknowledge all relationship of numbers to a geographic area.
 
-#### Image theory
+#### B. Image theory: Efficiency
 
 ##### What term stablish the standard differentiation between two planar system of identification?
 Orthogonal differentiation.
@@ -72,7 +72,7 @@ Those ones that can perceive on any level by using a single image.
 ##### Based on the use of retinal variables, What type of variables make an image?
 Three homogenous and ordered variables: two planar dimesions, and an ordered retinal variable.
 
-#### Three functions of graphic representation
+#### C. Three functions of graphic representation
 
 ##### Why a representation must be comprehensive?
 To avoid any prior reduction of information and classings are possible and easy.
@@ -86,7 +86,7 @@ Stability.
 ##### What are the two properties of a representation?
 It must be memorizable and comprenhensive.
 
-#### General rules of construction
+#### D. General rules of construction
 
 ##### What is a map?
 A single image with information having at most two components
@@ -103,7 +103,7 @@ The imposition and the number of components.
 ##### What is the purpose of the standard schemas?
 Stablish the constrain data to categories or concepts. 
 
-### General rules of legibility (or rules of separation)
+#### E. General rules of legibility (or rules of separation)
 
 ##### Why are standard constructions necessary? or Why are standard constructions needed?
 Make possible the reading in any level, but doesn't imply that the image is legible.
