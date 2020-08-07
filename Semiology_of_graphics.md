@@ -1,6 +1,8 @@
 # Semiology of Graphics - Diagrams, Networks, Maps
 
-## The Analisis of Information
+## Chapter 1
+
+### The Analisis of Information
 
 ##### What is graphic identification?
 It is the narrative content (information) for describe the scales variables.
@@ -14,7 +16,7 @@ It describes all common topological properties that a graph could has on it.
 ##### When a component is ordered?
 It is only ordered when its categories are ordered in a single and universal manner and when its categories are defined as equidistant.
 
-## The Properties of the graphic system
+### The Properties of the graphic system
 
 ##### What do graphics designers are in the graphic system?
 They are the visual variables who will form the world of images.
